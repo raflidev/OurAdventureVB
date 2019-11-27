@@ -1,0 +1,15 @@
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\bin\Debug\OurAdventure.exe
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\bin\Debug\OurAdventure.pdb
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\bin\Debug\OurAdventure.xml
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.Resources.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.vbproj.GenerateResource.Cache
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.exe
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.xml
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.pdb
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.Member.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.Users.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.Simpan.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.Login.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.MenuUtama.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\OurAdventure\obj\Debug\OurAdventure.Laporan.resources
